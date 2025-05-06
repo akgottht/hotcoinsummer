@@ -1,24 +1,25 @@
-# HOTGIRLSUMMER Coin
+# 🔥 HOTCOINSUMMER
 
-Welcome to the **HOTGIRLSUMMER** coin! 🔥
+Welcome to the official HOTCOINSUMMER website — the fun, fierce, and fabulous memecoin of the season.
 
-### About the Coin
-HOTGIRLSUMMER is the **official memecoin** of the hottest season ever. Designed for fun, community, and vibes, it’s more than just a coin; it's a **lifestyle**. Whether you're at the beach, partying, or just vibing, $HGS is here to make your summer a bit hotter.
+## 🚀 What is HOTCOINSUMMER?
 
-**Join the movement!**
+HOTCOINSUMMER is your ticket to an endless summer of fun, community vibes, and memecoin mayhem. It's more than a coin — it's a celebration!
 
-- 🌴 **Summer Utility:** Exclusive giveaways, beach party access, and more!
-- 💅 **Tokenomics:**
-  - 50% Community
-  - 20% Liquidity
-  - 15% Marketing
-  - 10% Team
-  - 5% Airdrops
+## 💬 Join Us
 
-### Join the Telegram Community
-Get involved, stay updated, and chat with other members of the hottest community this summer:  
-[Join the Telegram](https://t.me/HotCoinSummer1)
+🌐 Telegram: [t.me/HotCoinSummer1](https://t.me/HotCoinSummer1)
 
----
+## 🧠 Tech Stack
 
-**Hottest official coin of the summer!** 🚀🔥
+- React.js
+- CSS3
+- Hosted on Vercel / GitHub Pages
+
+## 📦 How to Run Locally
+
+```bash
+git clone https://github.com/yourusername/hotcoinsummer.git
+cd hotcoinsummer
+npm install
+npm start
