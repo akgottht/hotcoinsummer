@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(120deg, #fce4ec, #ffe0b2);
+  color: #4a148c;
+}
+
+.app-container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  color: #e91e63;
+}
+
+.subtitle {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+  color: #d81b60;
+}
+
+.telegram-button {
+  background-color: #fff;
+  border: 2px solid #e91e63;
+  color: #e91e63;
+  padding: 0.75rem 1.5rem;
+  font-weight: bold;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.telegram-button:hover {
+  background-color: #fce4ec;
+}
+
+.section {
+  margin: 3rem auto;
+  max-width: 600px;
+  text-align: left;
+}
+
+.footer {
+  margin-top: 4rem;
+  font-size: 0.9rem;
+  color: #880e4f;
+}
